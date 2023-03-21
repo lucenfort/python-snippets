@@ -32,6 +32,10 @@ O programa entra em um loop que exibe um menu de operações disponíveis, solic
 
 Após cada operação, o programa pergunta ao usuário se ele deseja continuar ou sair do programa. Se o usuário optar por sair, o loop é encerrado e o programa é finalizado.
 
+## Programa 7 - locadora.py
+
+Este é um programa simples de locadora de carros, escrito em Python.
+
 ## Como executar os programas
 
 Para executar cada programa, basta abrir um terminal na pasta correspondente e digitar o comando `python nome_do_programa.py`, onde "nome_do_programa.py" é o nome do arquivo que contém o programa desejado.
