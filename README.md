@@ -22,6 +22,16 @@ Este programa calcula o percentual de representação que cada estado teve dentr
 
 Este programa recebe uma string como entrada e retorna a string invertida.
 
+## Programa 6 - calc.py
+
+Este é um programa em Python que implementa uma calculadora simples capaz de realizar operações básicas de aritmética. 
+
+O programa define cinco funções lambda para realizar as operações básicas (adição, subtração, multiplicação, divisão e exponenciação) e usa um dicionário para mapear essas funções para seus símbolos correspondentes (+, -, *, / e ^).
+
+O programa entra em um loop que exibe um menu de operações disponíveis, solicita a escolha do usuário e pede dois valores para realizar a operação selecionada. Ele então usa a função lambda correspondente à operação selecionada para realizar o cálculo e exibe o resultado.
+
+Após cada operação, o programa pergunta ao usuário se ele deseja continuar ou sair do programa. Se o usuário optar por sair, o loop é encerrado e o programa é finalizado.
+
 ## Como executar os programas
 
 Para executar cada programa, basta abrir um terminal na pasta correspondente e digitar o comando `python nome_do_programa.py`, onde "nome_do_programa.py" é o nome do arquivo que contém o programa desejado.
